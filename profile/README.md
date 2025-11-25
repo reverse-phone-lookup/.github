@@ -1,10 +1,15 @@
 # Mobile Number Tracking in India – Research, Methods & Legal Framework
 
-Mobile Number Tracker can be used to perform a completely free reverse phone lookup for any Indian or U.S. phone number. Simply enter the phone number in the form below and click the search button to get the owner's full name and more details. Firm registration and API setup is required to get the owner's full name. We are 100% non-corporate and non-negotiable. We guarantee you that you will not find a more accurate phone number lookup service.
+This project demonstrates the concept of a mobile number tracker and reverse phone lookup for educational and research purposes only. It shows how publicly available and non-sensitive telecom information — such as network operator, region, and approximate location — can be displayed in a structured and responsible way.
 
-Get more details and demo: Developers can get the telecom operator and some other details by the code given below.
+It does **not** retrieve private or confidential personal information. Access to any extended datasets or APIs requires proper authorization, legal permission, and compliance with local data-protection laws.
 
-View the live project for [real-time](https://www.mobilenumbertracker.in) output and delivery status.
+The goal of this repository is to help developers and researchers understand the structure and workflow behind mobile number lookup systems, operator identification, and location-based data presentation in a privacy-respecting manner.
+
+Developers can explore the sample code to understand how telecom data sources may be integrated to display non-private mobile number details for learning and demonstration.
+
+For a live example of how such a system can be presented to users, you can view the demonstration version here:  
+**[https://www.mobilenumbertracker.in](https://www.mobilenumbertracker.in)**
 
 ---
 
