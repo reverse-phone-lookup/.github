@@ -1,4 +1,4 @@
-# Mobile Number Tracker
+# Mobile Number Tracking in India – Research, Methods & Legal Framework
 
 Phone Number Tracker can be used to perform a completely free reverse phone lookup for any Indian or US phone number. Simply enter the phone number in the form below and click the search button to get the owner's full name and more details. Firm registration and API setup is required to get the owner's full name. We are 100% non-corporate and non-negotiable. We guarantee you that you will not find a more accurate phone number lookup service.
 
