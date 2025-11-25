@@ -1,10 +1,10 @@
 # Mobile Number Tracking in India – Research, Methods & Legal Framework
 
-Phone Number Tracker can be used to perform a completely free reverse phone lookup for any Indian or US phone number. Simply enter the phone number in the form below and click the search button to get the owner's full name and more details. Firm registration and API setup is required to get the owner's full name. We are 100% non-corporate and non-negotiable. We guarantee you that you will not find a more accurate phone number lookup service.
+Mobile Number Tracker can be used to perform a completely free reverse phone lookup for any Indian or U.S. phone number. Simply enter the phone number in the form below and click the search button to get the owner's full name and more details. Firm registration and API setup is required to get the owner's full name. We are 100% non-corporate and non-negotiable. We guarantee you that you will not find a more accurate phone number lookup service.
 
-Visit the website for more details and demo: Developers can get the telecom operator and some other details by the code given below.
+Get more details and demo: Developers can get the telecom operator and some other details by the code given below.
 
-Check Live Demo : - [Phone Number Tracker](https://www.mobilenumbertracker.in)
+View the live project for [real-time](https://www.mobilenumbertracker.in) output and delivery status.
 
 ---
 
@@ -16,6 +16,7 @@ The **Mobile Number Tracker CLI** is a powerful tool designed to facilitate phon
 
 - **Phone Number Validation**: Ensures whether a given phone number follows the correct format.
 - **Service Provider Lookup**: Retrieves telecom provider details based on the country code.
+- **Consent Status**: Retrieving user/device consent for sharing or denying location details.
 - **Location Coordinate Generator**: Generates random latitude and longitude coordinates.
 - **Command-Line Interface (CLI)**: Provides quick access to package functionalities without writing code.
 
@@ -33,6 +34,7 @@ tracker/
 |   |-- index.js                    # Main module for the package
 |   |-- validator.js                # Phone number validation functions
 |   |-- provider.js                 # Service provider information
+|   |-- ConsentStatus.js            # Consent status validation functions
 |   |-- locationGenerator.js        # Location coordinates generator
 |-- CODE_OF_CONDUCT.md
 |-- LEARN.md
